@@ -1,2 +1,2 @@
 # GridProject
-project to learn basic hindi phrases with audio of their pronounciation.
+An android app to learn basic hindi phrases with audio of their pronounciation.
